@@ -161,7 +161,7 @@ The model achieved an impressive **99.01%** accuracy on the test set, which indi
 
 ### Accuracy Screenshot
 
-![Accuracy Screenshot](screenshots/accuracy_screenshot.png)
+![Accuracy Screenshot](screenshot/accuracy_screenshot.png)
 
 ---
 
@@ -179,17 +179,17 @@ https://github.com/user-attachments/assets/7a3228c5-1a10-430a-8187-86092f8ea490
 
 ### 1. **Sample Text Analysis Output**
 
-![Text Analysis Output](screenshots/text_analysis_output1.png)
-![Text Analysis Output](screenshots/text_analysis_output.png)
+![Text Analysis Output](screenshot/text_analysis_output1.png)
+![Text Analysis Output](screenshot/text_analysis_output.png)
 
 ### 2. **Sample URL Analysis Output**
 
-![URL Analysis Output](screenshots/url_analysis_output1.png)
-![URL Analysis Output](screenshots/url_analysis_output.png)
+![URL Analysis Output](screenshot/url_analysis_output1.png)
+![URL Analysis Output](screenshot/url_analysis_output.png)
 
 ### 3. **Dynamic View on Small Screen**
 
-![Small Screen View](screenshots/small_screen_output.png)
+![Small Screen View](screenshot/small_screen_output.png)
 
 
 ---
